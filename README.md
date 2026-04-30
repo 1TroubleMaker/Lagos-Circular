@@ -1,2 +1,3 @@
 # Lagos-Circular
-una planta de economía circular que se enfocará en la recolección, clasificación y transformación de residuos plásticos posconsumo y otros componentes aprovechables de la basura en productos de alto valor agregado.
+"LAGOS CIRCULAR" no es solo una planta de reciclaje; es una empresa de manufactura avanzada. Su núcleo de negocio es la fabricación y comercialización de una amplia gama de productos de alto rendimiento, elaborados 100% con residuos plásticos locales. El modelo de negocio se basa en la eficiencia de costos, la innovación en materiales y el valor agregado de ser un producto "verde" y socialmente responsable.
+Una planta de economía circular que se enfocará en la recolección, clasificación y transformación de residuos plásticos posconsumo y otros componentes aprovechables de la basura en productos de alto valor agregado.
